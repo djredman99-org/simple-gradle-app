@@ -1,3 +1,6 @@
+[![Security](https://img.shields.io/badge/security-CodeQL%20enabled-brightgreen)](https://github.com/djredman99-org/simple-gradle-app/security/code-scanning)
+[![CodeQL](https://github.com/djredman99-org/simple-gradle-app/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/djredman99-org/simple-gradle-app/actions/workflows/github-code-scanning/codeql)
+
 # Simple Gradle Java APP
 Simple Java App Created with Gradle
 
